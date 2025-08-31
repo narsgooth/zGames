@@ -18,7 +18,7 @@
 						</tr>
 						<tr>
 							<form action="search">								 
-								<input name="q" size="40" placeholder="1000+ clips to search from...">&emsp;
+								<input name="q" size="40" placeholder="1000+ videos to search from...">&emsp;
 								<input type="submit" style="font-size: normal;"title="Search" value="🔎︎">
 							</form>&emsp;
 						</tr>
@@ -125,7 +125,7 @@ function getNew()
 	}	
 	var sorted = sortArrays([newSongsIndices,newSongs]);	
 	newSongs = sorted[1];
-	for (var i = newSongs.length-1 ; i >=newSongs.length-4 ; i--) 
+	for (var i = newSongs.length-1 ; i >=newSongs.length-120 ; i--) 
 	{
 		if(c==0)
 			row= table.insertRow();
