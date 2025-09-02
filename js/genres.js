@@ -7,6 +7,7 @@ var genres = [
 'platform',
 'multiplayer',
 'open-world',
+'point-and-click',
 'puzzle',
 'racing',
 'rhythm',
