@@ -2,6 +2,7 @@ var genres = [
 'adventure',
 'arcade',
 'building',
+'casual',
 'educational',
 'fps',
 'platform',
