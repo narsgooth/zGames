@@ -12,6 +12,7 @@ var genres = [
 'puzzle',
 'racing',
 'rhythm',
+'rpg',
 'side-scroller',
 'strategy',
 'sports'
